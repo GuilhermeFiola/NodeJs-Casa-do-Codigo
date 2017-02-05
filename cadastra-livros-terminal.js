@@ -12,7 +12,7 @@ var configuracoes = {
 }
 
 var produto = {
-    titulo: "Meu titulo teste",
+    titulo: "",
     descricao: "Descricao do meu titulo teste",
     preco: 67
 }
